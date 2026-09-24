@@ -21,11 +21,7 @@ The work includes:
 - capability-based routing and verification concepts;
 - reproducible transfer between local and remote compute environments.
 
-## Current research direction
-
-The current production-oriented native model programme is **Ruse Native SLM v1 / LTOL**, a 281,719,808-parameter decoder-only Transformer initialized from scratch and developed through controlled foundation training.
-
-RUSE also preserves earlier native-model lineages and scaling experiments, including RN-20M, RN-50M, RN-100M, RN-300M, Gary / RN-50M-32K-ML, and the RN-8M sibling cohort.
+native-model lineages and scaling experiments, including RN-20M, RN-50M, RN-100M, RN-300M, Gary / RN-50M-32K-ML, and the RN-8M sibling cohort.
 
 These lineages are retained as experimental evidence. Different models may exhibit different strengths, weaknesses, failure modes, tokenizer behaviour, learning dynamics, and useful specialist capabilities.
 
